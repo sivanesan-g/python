@@ -12,7 +12,7 @@ while True:
           2 --> paper
           3 --> siccssor
           ''')
-    user=int(input("our choice :"))
+    user=int(input("your choice :"))
     if user in [1,2,3]:
         break
     
