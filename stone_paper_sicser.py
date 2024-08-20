@@ -1,8 +1,8 @@
 import random
-green='\033[01;32m]'
-red = '\033[01;31m]'
-blue= '\033[01;34m]'
-gr='\033[01;35m]'
+green='\033[01;32m'
+red = '\033[01;31m'
+blue= '\033[01;34m'
+gr='\033[01;35m'
 #com=random.choices(["stone","paper","siccssor"])
 com=random.choices([1,2,3])
 print(com)
